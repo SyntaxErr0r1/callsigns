@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0.11</start>
+		<end>7.17</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO radar</speaker_label>
+		<text>[#callsign]Oscar Kilo Foxtrot Charlie Alpha[/#callsign] you are leaving TMA Praha switch to Praha info one two six decimal one [NE Czech]  naslysenou [/NE]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>7.39</start>
+		<end>11.26</end>
+		<speaker>B</speaker>
+		<speaker_label>OKFCA</speaker_label>
+		<text>[hes] one two six decimal [hes] one  [NE Czech] naslysenou dekuji [/NE]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

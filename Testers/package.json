@@ -1,0 +1,22 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@nestjs/common": "^9.3.10",
+    "@nestjs/core": "^9.3.10",
+    "@nestjs/serve-static": "^3.0.1",
+    "@nestjs/websockets": "^9.3.10",
+    "damerau-levenshtein": "^1.0.8",
+    "fastest-levenshtein": "^1.0.16",
+    "fscore": "^1.2.0",
+    "jaro-winkler": "^0.2.8",
+    "latinize": "^0.5.0",
+    "levenshtein": "^1.0.5",
+    "levenshtein-js": "^1.0.2",
+    "node-lcs": "^1.0.4",
+    "nodeplotlib": "^1.1.2",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^7.8.0",
+    "word-error-rate": "^0.0.7",
+    "xml2js": "^0.5.0"
+  }
+}

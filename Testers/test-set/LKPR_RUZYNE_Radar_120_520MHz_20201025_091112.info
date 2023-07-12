@@ -1,0 +1,40 @@
+airport: LKPR (Praha Ruzyne)
+channel: Radar
+frequency: 120.520MHz
+UTC time: 2020-10-25 09:11:12
+coordinates: 50.1028697N, 14.2623153E
+manual: https://aim.rlp.cz/vfrmanual/actual/lkpr_text_en.html
+adc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_adc.jpg
+vfrc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_voc.jpg
+hs: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_hs.jpg
+pdc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_pdc.jpg
+waypoints nearby: AKEVA ARVEG BAGRU BAROX BAVIN BEKVI ELMEK ELPON ERASU EVEMI KENOK KUVIX LETNA RATEV RISUK SOMIS SULOV TIPRU UTORO
+callsigns nearby:
+BLA131 : All Charter One Three One
+BLA1XQ : All Charter One X-ray Quebec
+BTI7PY : Air Baltic Seven Papa Yankee
+CTN480 : Croatia Four Eight Zero
+DLH3NL : Lufthansa Three November Lima
+DLH9TP : Lufthansa Nine Tango Papa
+ETD72E : Etihad Seven Two Echo
+EWG6HP : Eurowings Six Hotel Papa
+FIN1DH : Finn Air One Delta Hotel
+IRA711 : Iranair Seven One One
+KLM44K : Klm Four Four Kilo
+MLD863 : Air Moldova Eight Six Three
+MLD864 : Air Moldova Eight Six Four
+OKHBT :  Oscar Kilo Hotel Bravo Tango
+OKLLZ : Oklahoma Lima Zulu
+OKMHZ :  Oscar Kilo Mike Hotel Zulu
+OKPHM : Okapi Hotel Mike
+OKWUS17 :  Oscar Kilo Whiskey Uniform Sierra One Seven
+OKYAI14 :  Oscar Kilo Yankee Alfa India One Four
+RYR1JU : Ryan Air One Juliett Uniform
+RYR4945 : Ryan Air Four Nine Four Five
+SXS7D : Sunexpress Seven Delta
+THY32B : Turkish Three Two Bravo
+THY6577 : Turkish Six Five Seven Seven
+TIE790J : Time Air Seven Nine Zero Juliett
+UAE73 : Emirates Seven Three
+
+

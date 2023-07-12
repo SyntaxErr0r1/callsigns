@@ -1,0 +1,10 @@
+sel/
+*.xml
+node_modules/
+*.cnet
+*.info
+all/
+*.json
+!package.json
+!package-lock.json
+*/excludedFiles.txt
